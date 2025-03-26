@@ -71,7 +71,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❸ || Owner = https://wa.me/2348107574599
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || Bot Repo = https://github.com/cyber-lord-dev
+❺ || Bot Repo = https://github.com/cyberlord-dev/Cyber-Session-Generator/
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❻ || YouTube = https://www.youtube.com/@Cyberdev2
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬

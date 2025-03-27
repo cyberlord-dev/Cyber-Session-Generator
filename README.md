@@ -20,14 +20,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+✨,fork+my+repo+if+you+like+this+session)](https://git.io/typing-svg)
     <br>
-<a href="https://github.com/cyberlord-dev/Cyber.Session"><img title="WEB" src="https://img.shields.io/badge/FORK Cyber.Session-QR?color=red&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/cyberlord-dev/Cyber-Session-Generator"><img title="WEB" src="https://img.shields.io/badge/FORK Cyber-Session-Generator-QR?color=red&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Deploy+to+heroku...)](https://git.io/typing-svg)
 
     
-<a href='https://dashboard.heroku.com/new?template=https://github.com/cyberlord-dev/cyber.session' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fcyberlord-dev%2FCyber-Session-Generator' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+How+to+Deploy+on+Render..👇👇.)](https://git.io/typing-svg)
 
@@ -41,7 +41,7 @@ Now Deploy
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Deploy+on+Render+now..👇👇.)](https://git.io/typing-svg)
 
  
-<a href='https://dashboard.render.com/new?template=https://github.com/cyberlord-dev/cyber.session' target="_white"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-white?style=for-the-badge&logo=Render&logoColor=black'/>
+<a href='https://dashboard.render.com/new?template=https%3A%2F%2Fgithub.com%2Fcyberlord-dev%2FCyber-Session-Generator' target="_white"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-white?style=for-the-badge&logo=Render&logoColor=black'/>
 
 
 
@@ -58,7 +58,7 @@ ___
 
 
 
-[`Tap Here to see an EXAMPLE OUTPUT`](https://cyber-session-0h9e.onrender.com/)
+[`Tap Here to see an EXAMPLE OUTPUT`](https://Cyber-Session-Generator-0h9e.onrender.com/)
 # `Owner`
 
  <a href="https://github.com/cyberlord-dev"><img src="https://github.com/cyberlord-dev.png" width="250" height="250" alt=" Cyber Lord"/></a>

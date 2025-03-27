@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+✨,fork+my+repo+if+you+like+this+session)](https://git.io/typing-svg)
     <br>
-<a href="https://github.com/cyberlord-dev/Cyber-Session-Generator"><img title="WEB" src="https://img.shields.io/badge/FORK Cyber-Session-Generator-QR?color=red&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/cyberlord-dev/Cyber-Session-Generator"><img title="FORK CYBER SESSION" src="https://img.shields.io/badge/FORK Cyber-Session-Generator-QR?color=red&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
 
